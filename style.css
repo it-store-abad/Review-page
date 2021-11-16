@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+.contact_1 a{
+    text-decoration: none;
+    font-family: Cooper;
+    font-family: 'Lobster', cursive;
+    font-size: 19px;
+}
+#m{
+    font-family: 'Bebas Neue', cursive;;
+    font-size: 20px;
+}
+ 
+.contact_1 a{
+    color: black;
+    text-shadow: none;
+}
+.contact_1 h3{
+    display: inline;
+}
+#n{
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+}
+#heading{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+}
+h1{
+    font-size: 30px;
+}
+#l{
+    margin-top: 3px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+}
+#m{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+    font-size: 25px;
+}
+#nb{
+   font-family: 'Lobster', cursive;
+    font-size: 19px; 
+}
